@@ -27,19 +27,19 @@ Para realizar este curso, son necesarios conocimientos sólidos del lenguaje de 
 * Entregar proyecto que se asignará el Sabado 18 de Noviembre (ultima clase presencial en aula virtual) y que debe ser enviado por email al profesor, antes de las 23:59 del Sabado 25 de Noviembre.
 
 # CONTENIDO
-## [MODULO I - INTRODUCCIÓN Y REPASO GENERAL DE CONCEPTOS](https://github.com/bonillo-software/CIENCIA_DE_DAtos_CON_PYTHON/blob/main/MODULO_I/MODULO%20I%20-%20INTRODUCCI%C3%93N%20Y%20REPASO%20GENERAL%20DE%20CONCEPTOS.pdf)
+## [MODULO I - INTRODUCCIÓN Y REPASO GENERAL DE CONCEPTOS](https://github.com/bonillo-software/CIENCIA_DE_DATOS_CON_PYTHON/blob/main/MODULO_I/MODULO%20I%20-%20INTRODUCCI%C3%93N%20Y%20REPASO%20GENERAL%20DE%20CONCEPTOS.pdf)
   * Que es el Data Science.
   * Fases en un proyecto de Data Science.
   * Herramienta de trabajo Google Colab (Google Colaboratory)
   * Fundamentos generales de Python para la ciencia de datos.
-    * [Introducción a Python](https://colab.research.google.com/bonillo-software/CIENCIA_DE_DAtos_CON_PYTHON/blob/main/MODULO_I/python.ipynb)
-    * [Numpy](https://colab.research.google.com/github/bonillo-software/CIENCIA_DE_DAtos_CON_PYTHON/blob/main/MODULO_I/numpy.ipynb)
-    * [Pandas](https://colab.research.google.com/github/bonillo-software/CIENCIA_DE_DAtos_CON_PYTHON/blob/main/MODULO_I/pandas.ipynb)
+    * [Introducción a Python](https://colab.research.google.com/bonillo-software/CIENCIA_DE_DATOS_CON_PYTHON/blob/main/MODULO_I/python.ipynb)
+    * [Numpy](https://colab.research.google.com/github/bonillo-software/CIENCIA_DE_DATOS_CON_PYTHON/blob/main/MODULO_I/numpy.ipynb)
+    * [Pandas](https://colab.research.google.com/github/bonillo-software/CIENCIA_DE_DATOS_CON_PYTHON/blob/main/MODULO_I/pandas.ipynb)
 
   * Fundamentos y conceptos de Probabilidad y Estadística para la ciencia de datos.
-    * [Probabilidades y Estadísticas](https://colab.research.google.com/github/bonillo-software/CIENCIA_DE_DAtos_CON_PYTHON/blob/main/MODULO_I/probabilidad_estadistica.ipynb)
+    * [Probabilidades y Estadísticas](https://colab.research.google.com/github/bonillo-software/CIENCIA_DE_DATOS_CON_PYTHON/blob/main/MODULO_I/probabilidad_estadistica.ipynb)
   
-  * Ejercicio 1: En base al data set [titanic](https://github.com/bonillo-software/CIENCIA_DE_DAtos_CON_PYTHON/blob/main/MODULO_I/titanic_train.csv). Responda las preguntas del siguiente [formulario](https://docs.google.com/forms/d/e/1FAIpQLSd-hf2udSj9-9lEUbsu2SmsbNlCS9tn_qq3QpP8tjk4i-r5kQ/viewform)
+  * Ejercicio 1: En base al data set [titanic](https://github.com/bonillo-software/CIENCIA_DE_DATOS_CON_PYTHON/blob/main/MODULO_I/titanic_train.csv). Responda las preguntas del siguiente [formulario](https://docs.google.com/forms/d/e/1FAIpQLSd-hf2udSj9-9lEUbsu2SmsbNlCS9tn_qq3QpP8tjk4i-r5kQ/viewform)
   
 ## [MODULO II - PREPROCESAMIENTO DE DATOS]
   * [Manejo de librerías y conjuntos de datos]
