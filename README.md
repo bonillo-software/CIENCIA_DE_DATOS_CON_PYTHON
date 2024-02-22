@@ -41,7 +41,7 @@ Para realizar este curso, son necesarios conocimientos sólidos del lenguaje de 
   
   * Ejercicio 1: En base al data set [titanic](https://github.com/bonillo-software/CIENCIA_DE_DAtos_CON_PYTHON/blob/main/MODULO_I/titanic_train.csv). Responda las preguntas del siguiente [formulario](https://docs.google.com/forms/d/e/1FAIpQLSd-hf2udSj9-9lEUbsu2SmsbNlCS9tn_qq3QpP8tjk4i-r5kQ/viewform)
   
-## [MODULO II - PREPROCESAMIENTO DE DATOS](https://github.com/pbonillor/DATA_SCIENCE_CON_PYTHON/blob/main/MODULO_II/MODULO%20II%20-%20PREPROCESAMIENTO%20DE%20DATOS.pdf)
+## [MODULO II - PREPROCESAMIENTO DE DATOS]
   * [Manejo de librerías y conjuntos de datos]
     * Datos faltantes.
     * Datos categóricos.
